@@ -1,0 +1,11 @@
+{
+  "name": "flexa-rn-starter",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "lint": "echo \"no lint yet\"",
+    "test": "echo \"no tests yet\" && exit 0",
+    "typecheck": "echo \"no TS yet\" && exit 0",
+    "ci": "npm run lint && npm run typecheck && npm test"
+  }
+}
